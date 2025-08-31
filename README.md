@@ -16,6 +16,14 @@ This project uses the public dataset provided by Microsoft Edge demos:
 
 https://microsoftedge.github.io/Demos/json-dummy-data/5MB.json
 
+## 📚 References
+During development, the following resources were referenced:
+
+- TanStack Table Virtualized Infinite Scrolling Example:  
+  https://tanstack.com/table/latest/docs/framework/react/examples/virtualized-infinite-scrolling?path=examples%2Freact%2Fvirtualized-infinite-scrolling%2Fsrc%2FmakeData.ts
+- Official documentation of TanStack Query, Table, and Virtual
+- Material UI (MUI) component library docs
+
 ## 📦 Tech Stack
 
 - **React 19 + TypeScript**
